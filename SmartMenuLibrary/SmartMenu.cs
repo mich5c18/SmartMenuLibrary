@@ -3,9 +3,6 @@
 namespace SmartMenuLibrary
 {
     public class SmartMenu
-    {
-        {
-    public class SmartMenu
         {
             List<string> menuStructure = new List<string>(); // Laver en liste hvor menu strukturen gemmes
             List<string> menuPoints = new List<string>(); // Laver en liste med menu-id
