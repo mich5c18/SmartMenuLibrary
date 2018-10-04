@@ -57,7 +57,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\SmartMenuLibrary\SmartMenuLibrary.csproj">
-      <Project>{82b14202-ea9e-4c9c-8f26-b8858c797ed8}</Project>
+      <Project>{516ef515-0848-49fb-9145-90c14e32aa14}</Project>
       <Name>SmartMenuLibrary</Name>
     </ProjectReference>
   </ItemGroup>
