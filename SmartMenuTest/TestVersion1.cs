@@ -10,7 +10,7 @@ namespace SmartMenuTest
         [TestMethod]
         public void TestMethod1()
         {
-            Cyka Michael 
+            Assert.AreEqual
         }
     }
 }
