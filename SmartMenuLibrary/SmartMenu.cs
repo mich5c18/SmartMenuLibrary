@@ -20,7 +20,7 @@ namespace SmartMenuLibrary
             }
             else
             {
-                System.IO.StreamReader sr = new System.IO.StreamReader(@"../../../SmartMenuLibrary/" + path); // Åbner for filen
+                System.IO.StreamReader sr = new System.IO.StreamReader(@"../SmartMenuLibrary/SmartMenuLibrary/MenuSpecDK.txt/" + path); // Åbner for filen
 
                 string line = null;
                 int count = 1;
